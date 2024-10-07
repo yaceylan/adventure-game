@@ -47,4 +47,4 @@ while currentroom < len(rooms):
            print("You found the treasure. Congrats!")
 
 
-main():
+main()
